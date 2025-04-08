@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(86, 69, 102);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    background-color: rgb(78, 78, 173);
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+ul li{
+    background-color: rgb(118, 94, 139);
+    border-radius: 8px;
+}
